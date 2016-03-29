@@ -1,4 +1,4 @@
-This project is *DEAD*. My apologies for not annoucing this sooner - thank-you to all contributors. I believe the best fork out there is the one at https://github.com/nfl/jquery-oembed-all
+This for handles the embedded iframe to fit into its parent div.
 
 
 Jquery-Oembed-All
