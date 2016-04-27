@@ -1,4 +1,4 @@
-This for handles the embedded iframe to fit into its parent div.
+A cleaner version of original jquery-oembed-all: contains bug fixes, handles the embedded iframe to fit into its parent div etc.
 
 
 Jquery-Oembed-All
